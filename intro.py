@@ -41,3 +41,4 @@ data = [1, 2, 3]
 type(data)
 data.append(33)
 
+print("test")
